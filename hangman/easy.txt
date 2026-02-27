@@ -1,0 +1,15 @@
+cat
+dog
+sun
+moon
+book
+tree
+fish
+milk
+ball
+rain
+star
+hat
+cup
+pen
+leaf
